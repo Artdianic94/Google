@@ -1,0 +1,68 @@
+.Goooglik {
+    font: 100 800% Georgia, 'Times New Roman', Times, serif;
+    text-indent: 0px;
+    text-decoration: dotted;
+}
+
+.Goooglik span:nth-child(1) {
+    color: #304ba1;
+}
+
+.Goooglik span:nth-child(2) {
+    color: #cf571f;
+}
+
+.Goooglik span:nth-child(3) {
+    color: #41a727;
+}
+
+.Goooglik span:nth-child(4) {
+    color: #941f94;
+}
+
+.Goooglik span:nth-child(5) {
+    color: #4ab6b6;
+}
+
+.Goooglik span:nth-child(6) {
+    color: #9f63bb;
+}
+
+.Goooglik span:nth-child(7) {
+    color: #803a3a;
+}
+
+.Goooglik span:nth-child(8) {
+    color: #dde93a;
+}
+
+input {
+    border-color: #ff0000;
+    width: 400px;
+    font-size: 30px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.button {
+    margin: 0;
+    padding: 0;
+    background-color: #41a727;
+    font-size: 30px;
+    border-radius: 15px;
+    width: 150px;
+    padding: 10px;
+}
+
+div {
+    text-align: center;
+    padding-top: 100px;
+}
+
+form {
+    text-align: center;
+}
+
+body {
+    animation: both;
+}
